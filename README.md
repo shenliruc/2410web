@@ -38,4 +38,6 @@ student_id（folder）
 
 - create a pull request on github.com to merge your commit with info-ruc/2410web
 
-![2410web](./2410web.png)
+## Submission Deadline
+ 
+ - 2019/06/04
